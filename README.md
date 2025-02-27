@@ -53,6 +53,7 @@ Compile e faça o upload do código para o Raspberry Pi Pico.
 
 # Video Demonstrativo
 
+https://drive.google.com/file/d/1eJFPgiS-V95ExUdvu_6rVbeseRKr-XUA/view?usp=sharing
 
 # Como Usar
 Inicialização: Ao ligar o sistema, o display exibirá a mensagem "Detector de Ruído - Aguardando...".
@@ -75,6 +76,3 @@ Commit suas mudanças (git commit -m 'Adiciona nova feature').
 Push para a branch (git push origin feature/nova-feature).
 
 Abra um Pull Request.
-
-Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
